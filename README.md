@@ -7,6 +7,6 @@ Here is the source code to my blogs
 
 
 <ul> 
-  <li> <a href= "https://https://github.com/rohankishorneog/travelblog"> Source code to travel blog</a></li>
-  <li> <a href= "https://https://github.com/rohankishorneog/TechnicalBlog"> Source code to technical blog</a></li>
+  <li> <a href= "https://github.com/rohankishorneog/travelblog"> Source code to travel blog</a></li>
+  <li> <a href= "https://github.com/rohankishorneog/TechnicalBlog"> Source code to technical blog</a></li>
 <ul>
